@@ -44,7 +44,8 @@ Atomic mass
 Group/Block classification
 
 # 👨‍💻 Author
-Bhanuprakash
-3rd Year Student, SR University
-Skills: Java, C, Python, HTML, CSS
-Projects: Quiz Game (Python), Canteen Management System (C)
+Bhanuprakash    
+3rd Year Student  
+SR University  
+
+
