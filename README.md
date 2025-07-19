@@ -1,4 +1,4 @@
-🌐 Periodic Table Explorer
+**🌐 Periodic Table Explorer**
 Periodic Table Explorer is a simple, interactive web application that allows users to explore the elements of the periodic table in multiple ways — by atomic number, element name, comparison, or through a quiz mode. This project is built using HTML, CSS, and JavaScript, and is suitable for chemistry learners and enthusiasts.
 
 🚀 Features
