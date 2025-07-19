@@ -10,7 +10,7 @@ Periodic Table Explorer is a simple, interactive web application that allows use
 
 🎓 Quiz Mode – Test your knowledge of atomic numbers with a 5-question quiz.
 
-?# 📁 File Structure
+# 📁 File Structure
 bash
 Copy
 Edit
